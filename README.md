@@ -1,6 +1,6 @@
 # TODO_APP
 
-A fully fledged TODO APP using sqflite. This was my first time working with database  
+  A fully fledged TODO APP using sqflite. This was my first time working with database  
   it was quite difficult but fun too.
    
 Learnt a ton of things while working on this Application.
