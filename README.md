@@ -2,7 +2,7 @@
 
 A fully fledged TODO APP using sqflite.
 This was my first time working with database  
-it was quite difficult but fun too.
+  it was quite difficult but fun too.
 
 
 
