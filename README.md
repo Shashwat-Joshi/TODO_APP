@@ -7,4 +7,4 @@
 
   ## For more sample images of the Application check out the SS folder  
   
-![addnote](https://github.com/Shashwat-Joshi/TODO_APP/blob/master/SS/addNote.png) ![add](https://github.com/Shashwat-Joshi/TODO_APP/blob/master/SS/add.png)
+  ![addnote](https://github.com/Shashwat-Joshi/TODO_APP/blob/master/SS/addNote.png) ![add](https://github.com/Shashwat-Joshi/TODO_APP/blob/master/SS/add.png)
