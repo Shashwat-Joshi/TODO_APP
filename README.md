@@ -6,8 +6,5 @@ This was my first time working with database
 
 
 
-## For more sample images of the Application check out the SS folder
-
-
-
+## For more sample images of the Application check out the SS folder  
 ![addnote](https://github.com/Shashwat-Joshi/TODO_APP/blob/master/SS/addNote.png)
